@@ -1,0 +1,1 @@
+John Doe favorited some post.
