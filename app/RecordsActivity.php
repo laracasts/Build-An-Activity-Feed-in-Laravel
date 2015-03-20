@@ -37,7 +37,7 @@ trait RecordsActivity
     }
 
     /**
-     * Prepare the appropraite activity name.
+     * Prepare the appropriate activity name.
      *
      * @param  mixed  $model
      * @param  string $action
